@@ -9,5 +9,4 @@
 예시
 
 ![image](https://user-images.githubusercontent.com/127226295/227695709-031361c1-164c-4084-b83e-1181760f9960.png)
-
   - localStorage 이용하여 검색한 내용 저장
